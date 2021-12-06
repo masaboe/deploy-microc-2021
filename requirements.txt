@@ -41,7 +41,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycosat==0.6.3
 pydotplus==2.0.2
-PyQt5==5.12.3
+PyQt5==12.9.0
 PyQt5-sip==4.19.18
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
