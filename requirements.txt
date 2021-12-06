@@ -4,7 +4,7 @@ blinker==1.4
 brotlipy==0.7.0
 certifi==2021.10.8
 clang==5.0
-conda==4.10.3
+conda==4.3.16
 distlib==0.3.3
 docutils==0.17.1
 entrypoints==0.3
